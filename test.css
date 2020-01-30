@@ -1,0 +1,45 @@
+.row {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.nav {
+  width: 100%;
+}
+
+.sideBar {
+  width: 20%;
+  height: 60%;
+  position: fixed;
+}
+
+.headerBody {
+  position: relative;
+  color: white
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.body {
+  width: 100%;
+  height: fit-content;
+  padding-left: 20%;
+}
+
+.aboutMe {
+  height: 40%;
+  padding: 20px;
+}
+
+.navlink {
+  border-bottom: solid 1px black;
+}
+
+.navbar {
+  padding: 2vh 0;
+}
